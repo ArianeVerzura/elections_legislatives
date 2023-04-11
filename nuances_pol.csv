@@ -1,0 +1,232 @@
+Année;Nuance;Ordre;Libellé;Tendance;Couleur
+1958;COM;1;Parti communiste français;COM;red
+1958;UFD;2;Union des Forces Démocratiques ;UFD;red
+1958;SFIO;3;Section Française Internationale Ouvrière;SFIO;lightcoral
+1958;UDSRMIN;4;Union Démocratique et Socialiste de la Résistance-minoritaires;UDSRMIN;lightcoral
+1958;RADUFD;5;Radicaux Union des Forces Démocratiques;RADUFD;lightcoral
+1958;RADSOC;6;Radicaux socialistes;RADSOC;lightcoral
+1958;MOD;7;Modérés;MOD;whitesmoke
+1958;RADCENT;8;Radicaux du centre;RADCENT;cyan
+1958;DIV;9;Divers;DIV;whitesmoke
+1958;CRR;10;Centre Réformateur Républicain;CRR;cyan
+1958;MRP;11;Mouvement Républicain Populaire;MRP;mediumblue
+1958;CNI;12;Centre National des Indépendants;CNI;royalblue
+1958;DIVGAUL;13;Divers Gaullistes;DIVGAUL;mediumblue
+1958;UNR;14;Union pour la Nouvelle République;UNR;mediumblue
+1958;POUJ;15;Poujadistes;POUJ;black
+1958;EXD;16;Extrême droite;EXD;black
+1962;EXG;1;Extrême gauche;EXG;red
+1962;COM;2;Parti communiste français;COM;red
+1962;PSU;3;Parti socialiste unifié;PSU;lightcoral
+1962;SFIO;4;Section Française Internationale Ouvrière;SFIO;lightcoral
+1962;RADSOC;5;Radicaux socialistes;RADSOC;lightcoral
+1962;MOD;6;Modérés;MOD;whitesmoke
+1962;DIV;7;Divers;DIV;whitesmoke
+1962;RADCENT;8;Radicaux du centre;RADCENT;mediumblue
+1962;INDVREP;9;Républicains Indépendants,Vème République;INDVREP;cyan
+1962;MRPVREP;11;Mouvement Républicain Populaire, Vème République;MRPVREP;mediumblue
+1962;MRP;12;Mouvement Républicain Populaire;MRP;mediumblue
+1962;DIVGAULL;13;Divers Gaullistes;DIVGAULL;mediumblue
+1962;UNR-UDT;14;Union pour la Nouvelle République, Union Pour le Travail ;UNR-UDT;mediumblue
+1962;CNI;15;Centre National des Indépendants;CNI;royalblue
+1962;POUJ;15;Poujadistes;POUJ;black
+1962;EXD;16;Extrême droite;EXD;black
+1967;EXG;1;Extrême gauche;EXG;red
+1967;COM;2;Parti communiste français;COM;red
+1967;FGDS;3;Fédération de la gauche démocrate et socialiste;FGDS;lightcoral
+1967;PSU;4;Parti socialiste unifié;PSU;lightcoral
+1967;DIV;5;Divers;DIV;whitesmoke
+1967;MOD;6;Modérés;MOD;whitesmoke
+1967;CENTDEM;7;Centre démocrate;CENTDEM;cyan
+1967;RALLIE;8;Centristes ralliés;RALLIE;cyan
+1967;RI;9;Républicains indépendants;RI;cyan
+1967;UD5;10;Union des Démocrates pour la 5è République;UD5;blue
+1967;DIVGAULL;11;Divers Gaullistes;DIVGAULL;mediumblue
+1967;ALLREP;12;Alliance républicaine;ALLREP;blue
+1967;RADDROIT;13;Radicaux de droite;RADDROIT;mediumblue
+1967;EXD;14;Extrême droite;EXD;black
+1968;EXG;1;Extrême gauche;EXG;red
+1968;COM;2;Parti communiste français;COM;red
+1968;FGDS;3;Fédération de la gauche démocrate et socialiste;FGDS;lightcoral
+1968;PSU;4;Parti socialiste unifié;PSU;lightcoral
+1968;RADSOC;5;Radicaux socialistes;RADSOC;lightcoral
+1968;MOD;6;Modérés;MOD;whitesmoke
+1968;DIV;7;Divers;DIV;whitesmoke
+1968;CPDM;8;Progrès et démocratie moderne ;CPDM;cyan
+1968;RI;9;Républicains indépendants;RI;cyan
+1968;RIUDR;10;Républicains indépendants;RIUDR;cyan
+1968;UDR;11;Union des Démocrates pour la 5è République;UDR;blue
+1968;DIVMAJ;12;Divers majorité;DIVMAJ;mediumblue
+1968;DIVGAULL;13;Divers Gaullistes;DIVGAULL;mediumblue
+1968;RADDROIT;14;Radicaux de droite;RADDROIT;mediumblue
+1968;DVD;15;Divers droite;DVD;royalblue
+1968;EXD;16;Extrême droite;EXD;black
+1973;LCR;1;Ligue communiste révolutionnaire;LCR;red
+1973;LO;2;Lutte ouvrière;LO;red
+1973;OCI;3;Organisation communiste internationaliste;OCI;red
+1973;COM;4;Parti communiste français;COM;red
+1973;PSU;5;Parti socialiste unifié;PSU;lightcoral
+1973;SOC;6;Parti socialiste;SOC;lightcoral
+1973;MRG;7;Mouvement des radicaux de gauche;MRG;lightcoral
+1973;DVG;8;Divers gauche;DVG;palevioletred
+1973;REFRAD;9;Radicaux réformateurs;REFRAD;whitesmoke
+1973;DIVREF;10;Divers réformateurs;DIVREF;cyan
+1973;DIVURP;11;Divers - Union des Républicains de progrès;DIVURP;cyan
+1973;CDP;12;Centre démocratie et progrès;CDP;blue
+1973;CDPURP;13;Centre démocratie et progrès - Union des républicains de progrès;URP;blue
+1973;RIURP;14;Républicains indépendants - Union des Républicains de progrès;RIURP;cyan
+1973;RI;15;Républicains indépendants;RI;cyan
+1973;UDRURP;16;Union des Démocrates pour la 5è République - Union des Républicains de progrès;UDRURP;blue
+1973;UDR;17;Union des Démocrates pour la 5è République;UDR;blue
+1973;DIVGAULL;18;Divers Gaullistes;DIVGAULL;mediumblue
+1973;DVD;19;Divers droite;DVD;royalblue
+1973;EXD;20;Extrême droite;EXD;black
+1978;EXG;1;Extrême gauche;EXG;red
+1978;COM;2;Parti communiste français;COM;red
+1978;PSMRG;3;PS - MRG;PSMRG;lightcoral
+1978;DVG;4;Divers gauche;DVG;palevioletred
+1978;ECO;5;Ecologiste;ECO;chartreuse
+1978;UDF;6;Union pour la Démocratie Française;UDF;blue
+1978;GAULOPP;7;Gaullistes d’opposition;GAULOPP;royalblue
+1978;RPR;8;Rassemblement Pour la République;RPR;mediumblue
+1978;DVD;9;Divers droite;DVD;royalblue
+1978;EXD;10;Extrême droite;EXD;black
+1981;EXG;1;Extrême gauche;EXG;red
+1981;COM;2;Parti communiste français;COM;red
+1981;SOC;3;Parti socialiste;SOC;lightcoral
+1981;RADICAUX GAUCHE;4;Radicaux;RADICAUX GAUCHE;lightcoral
+1981;DVG;5;Divers gauche;DVG;palevioletred
+1981;ECO;6;Ecologiste;ECO;chartreuse
+1981;REG;7;Régionaliste;REG;darkgrey
+1981;UDF;8;Union pour la Démocratie Française;UDF;blue
+1981;UDF-RPR;9;UDF - RPR;UDF-RPR;blue
+1981;RPR;10;Rassemblement Pour la République;RPR;mediumblue
+1981;DVD;11;Divers droite;DVD;royalblue
+1981;FRN;12;Front National;FRN;midnightblue
+1981;EXD;13;Extrême droite;EXD;black
+1988;EXG;1;Extrême gauche;EXG;red
+1988;COM;2;Parti communiste français;COM;red
+1988;EXE;3;Parti ouvrier européen ;EXE;red
+1988;SOC;4;Parti socialiste;SOC;lightcoral
+1988;MAJ;5;Majorité présidentielle;MAJ;lightcoral
+1988;SCO;6;Majorité présidentielle pour la France Unie;SCO;lightcoral
+1988;SDC;7;Majorité présidentielle pour la France Unie - DVG;SDC;lightcoral
+1988;RDG;8;Radicaux de gauche;RDG;lightcoral
+1988;DVG;9;Divers gauche;DVG;palevioletred
+1988;ECI;10;Ecologiste indépendant;ECI;chartreuse
+1988;ECO;11;Ecologiste;ECO;chartreuse
+1988;RDC;12;Radicaux du centre;RDC;cyan
+1988;REG;13;Régionaliste;REG;darkgrey
+1988;UDR;14;Union des Démocrates pour la 5è République;UDR;blue
+1988;UDF;15;Union pour la Démocratie Française;UDF;blue
+1988;UDP;16;Union de Rassemblement et du Centre - UDF;UDP;blue
+1988;UOF;17;Union de Rassemblement et du Centre - UDF;UOF;blue
+1988;RPR;18;Rassemblement Pour la République;RPR;mediumblue
+1988;PRP;19;RPR;PRP;mediumblue
+1988;DVD;20;Divers droite;DVD;royalblue
+1988;RFN;21;Front National;RFN;midnightblue
+1988;FRN;22;Front National;FRN;midnightblue
+1988;RRN;23;Liste d’entente populaire et nationale - Front National;RRN;midnightblue
+1988;EXO;24;Extrême droite;EXO;black
+1988;EXD;25;Extrême droite;EXD;black
+1993;EXG;1;Extrême gauche;EXG;red
+1993;COM;2;Parti communiste français;COM;red
+1993;SOC;3;Parti socialiste;SOC;lightcoral
+1993;MAJ;4;Majorité présidentielle;MAJ;lightcoral
+1993;RDG;5;Radicaux de gauche;RDG;lightcoral
+1993;VEC;6;Verts - Confédération écologiste ;VEC;chartreuse
+1993;GEC;7;Génération écologie ;GEC;olivedrab
+1993;DIV;8;Divers;DIV;whitesmoke
+1993;REG;9;Régionaliste;REG;darkgrey
+1993;UDF;10;Union pour la Démocratie Française;UDF;blue
+1993;RPR;11;Rassemblement Pour la République;RPR;mediumblue
+1993;DVD;12;Divers droite;DVD;royalblue
+1993;FRN;13;Front National;FRN;midnightblue
+1993;EXD;14;Extrême droite;EXD;black
+1997;EXG;1;Extrême gauche;EXG;red
+1997;COM;2;Parti communiste français;COM;red
+1997;SOC;3;Parti socialiste;SOC;lightcoral
+1997;PRG;4;Parti radical de gauche;PRG;lightcoral
+1997;DVG;5;Divers gauche;DVG;palevioletred
+1997;ECO;6;Ecologiste;ECO;chartreuse
+1997;DIV;7;Divers;DIV;whitesmoke
+1997;UDF;8;Union pour la Démocratie Française;UDF;blue
+1997;RPR;9;Rassemblement Pour la République;RPR;mediumblue
+1997;DVD;10;Divers droite;DVD;royalblue
+1997;FRN;11;Front National;FRN;midnightblue
+1997;EXD;12;Extrême droite;EXD;black
+2002;EXG;1;Extrême gauche;EXG;red
+2002;COM;2;Parti communiste français;COM;red
+2002;SOC;3;Parti socialiste;SOC;lightcoral
+2002;PRG;4;Parti radical de gauche;PRG;lightcoral
+2002;DVG;5;Divers gauche;DVG;palevioletred
+2002;ECO;6;Ecologiste;ECO;chartreuse
+2002;DIV;7;Divers;DIV;whitesmoke
+2002;UDF;7;Union pour la Démocratie Française;UDF;blue
+2002;UMP;8;Union pour un Mouvement Populaire;UMP;mediumblue
+2002;DVD;9;Divers droite;DVD;royalblue
+2002;FRN;10;Front National;FRN;midnightblue
+2002;EXD;11;Extrême droite;EXD;black
+2007;EXG;1;Extrême gauche;EXG;red
+2007;COM;2;Parti communiste français;COM;red
+2007;SOC;3;Parti socialiste;SOC;lightcoral
+2007;PRG;4;Parti radical de gauche;PRG;lightcoral
+2007;DVG;5;Divers gauche;DVG;palevioletred
+2007;ECO;6;Ecologiste;ECO;chartreuse
+2007;DIV;7;Divers;DIV;whitesmoke
+2007;MODEM;8;Modem;MODEM;orange
+2007;PSLE;9;Parti social libéral européen;PSLE;mediumblue
+2007;UMP;10;Union pour un Mouvement Populaire;UMP;mediumblue
+2007;DVD;11;Divers droite;DVD;royalblue
+2007;FRN;12;Front National;FRN;midnightblue
+2007;EXD;13;Extrême droite;EXD;black
+2012;EXG;1;Extrême gauche;EXG;red
+2012;COM;2;Parti communiste français;COM;red
+2012;FDG;3;Front de gauche;FDG;red
+2012;SOC;4;Parti socialiste;SOC;lightcoral
+2012;PRG;5;Parti radical de gauche;PRG;lightcoral
+2012;PRV;6;Parti radical;PRV;lightcoral
+2012;DVG;7;Divers gauche;DVG;palevioletred
+2012;ECO;8;Ecologiste;ECO;chartreuse
+2012;DIV;9;Divers;DIV;whitesmoke
+2012;MODEM;10;Modem;MODEM;orange
+2012;MODEM-;11;Modem;MODEM-;orange
+2012;NouvC;12;Nouveau Centre;NouvC;cyan
+2012;UMP;13;Union pour un Mouvement Populaire;UMP;mediumblue
+2012;DVD;14;Divers droite;DVD;royalblue
+2012;MPF;15;Mouvement pour la france;MPF;midnightblue
+2012;FRN;16;Front National;FRN;midnightblue
+2012;EXD;17;Extrême droite;EXD;black
+2017;EXG;1;Extrême gauche;EXG;red
+2017;COM;2;Parti communiste français;COM;red
+2017;FI;3;La France insoumise;FI;red
+2017;SOC;4;Parti socialiste;SOC;lightcoral
+2017;RDG;5;Parti radical de gauche;RDG;lightcoral
+2017;DVG;6;Divers gauche;DVG;palevioletred
+2017;ECO;7;Ecologiste;ECO;chartreuse
+2017;DIV;8;Divers;DIV;whitesmoke
+2017;REG;9;Régionaliste;REG;darkgrey
+2017;REM;10;La République en marche;REM;yellow
+2017;MDM;11;Modem;MDM;orange
+2017;UDI;12;Union des Démocrates et Indépendants;UDI;blue
+2017;LR;13;Les Républicains;LR;mediumblue
+2017;DVD;14;Divers droite;DVD;royalblue
+2017;DLF;15;Debout la France;DLF;midnightblue
+2017;FN;16;Front National;FN;midnightblue
+2017;EXD;17;Extrême droite;EXD;black
+2022;DXG;1;Divers extrème gauche;DXG;red
+2022;NUP;2;Nouvelle Union Populaire Écologique et Sociale;NUP;lightcoral
+2022;RDG;3;Radicaux de gauche;RDG;lightcoral
+2022;DVG;4;Divers gauche;DVG;palevioletred
+2022;ECO;5;Ecologiste;ECO;chartreuse
+2022;DIV;6;Divers;DIV;whitesmoke
+2022;DVC;7;Divers centre;DVC;cyan
+2022;REG;8;Régionaliste;REG;darkgrey
+2022;ENS;9;Ensemble;ENS;yellow
+2022;UDI;10;Union des Démocrates et Indépendants;UDI;blue
+2022;LR;11;Les Républicains;LR;mediumblue
+2022;DVD;12;Divers droite;DVD;royalblue
+2022;RN;13;Rassemblement National;RN;midnightblue
+2022;REC;14;Reconquête;REC;midnightblue
+2022;DSV;15;Droite souverainiste;DSV;black
+2022;DXD;16;Divers extrème droite;DXD;black
