@@ -18,7 +18,7 @@ from bokeh.transform import cumsum
 
 
 # Chargement des données
-resultats = pd.read_csv('./resultats aggrégés.csv')
+resultats = pd.read_csv('./resultats aggrégés.csv')
 resultats = resultats.rename({"Sièges" : "sieges"}, axis = "columns")
 
 def recup_resultat(echelle, annee, taux, seuil) :
